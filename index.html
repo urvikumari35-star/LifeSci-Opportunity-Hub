@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>LifeSci Internship Hub</title>
+
+    <meta
+        name="description"
+        content="Discover verified life-science internships, research programs, fellowships and opportunities worldwide."
+    >
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+    <!-- =========================
+         NAVIGATION BAR
+    ========================== -->
+
+    <header class="navbar">
+
+        <div class="nav-container">
+
+            <a href="#" class="logo">
+
+                <span class="logo-mark">
+                    LS
+                </span>
+
+                <span>
+                    LifeSci Hub
+                </span>
+
+            </a>
+
+
+            <nav class="nav-links">
+
+                <a href="#opportunities">
+                    Opportunities
+                </a>
+
+                <a href="#destinations">
+                    Destinations
+                </a>
+
+                <a href="#about">
+                    About
+                </a>
+
+            </nav>
+
+
+            <a
+                href="#opportunities"
+                class="nav-button"
+            >
+                Explore Opportunities
+            </a>
+
+        </div>
+
+    </header>
+
+
+
+    <!-- =========================
+         HERO SECTION
+    ========================== -->
+
+    <main>
+
+        <section class="hero">
+
+            <div class="hero-content">
+
+
+                <div class="hero-badge">
+
+                    <span class="status-dot"></span>
+
+                    Verified life-science opportunities
+
+                </div>
+
+
+
+                <h1>
+
+                    Find your next
+
+                    <span>
+                        life-science opportunity.
+                    </span>
+
+                </h1>
+
+
+
+                <p>
+
+                    Explore internships, research programs, fellowships,
+                    traineeships and other opportunities from institutions
+                    around the world.
+
+                </p>
+
+
+
+                <!-- SEARCH -->
+
+                <div class="hero-search">
+
+                    <span class="search-icon">
+                        ⌕
+                    </span>
+
+
+                    <input
+                        type="text"
+                        id="searchInput"
+                        placeholder="Search programs, universities, countries..."
+                        autocomplete="off"
+                    >
+
+                </div>
+
+
+
+                <!-- HERO STATS -->
+
+                <div class="hero-stats">
+
+
+                    <div class="hero-stat">
+
+                        <strong id="heroOpportunityCount">
+                            0
+                        </strong>
+
+                        <span>
+                            Opportunities
+                        </span>
+
+                    </div>
+
+
+
+                    <div class="hero-stat">
+
+                        <strong id="heroCountryCount">
+                            0
+                        </strong>
+
+                        <span>
+                            Countries
+                        </span>
+
+                    </div>
+
+
+
+                    <div class="hero-stat">
+
+                        <strong>
+                            100%
+                        </strong>
+
+                        <span>
+                            Source-linked
+                        </span>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =========================
+             DESTINATIONS
+        ========================== -->
+
+        <section
+            class="destinations-section"
+            id="destinations"
+        >
+
+
+            <div class="section-heading">
+
+
+                <div>
+
+                    <p class="eyebrow">
+                        EXPLORE BY DESTINATION
+                    </p>
+
+
+                    <h2>
+                        Where do you want to go?
+                    </h2>
+
+                </div>
+
+
+
+                <p class="section-description">
+
+                    Explore opportunities by country and region.
+
+                </p>
+
+
+            </div>
+
+
+
+            <div
+                class="country-grid"
+                id="countryGrid"
+            >
+
+                <!-- JavaScript will insert countries here -->
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             OPPORTUNITIES
+        ========================== -->
+
+        <section
+            class="opportunities-section"
+            id="opportunities"
+        >
+
+
+            <div class="section-heading">
+
+
+                <div>
+
+                    <p class="eyebrow">
+                        OPPORTUNITY DATABASE
+                    </p>
+
+
+                    <h2>
+                        Find the right opportunity
+                    </h2>
+
+                </div>
+
+
+
+                <p
+                    class="results-count"
+                    id="resultsCount"
+                >
+                    Loading opportunities...
+                </p>
+
+
+            </div>
+
+
+
+            <!-- FILTER BAR -->
+
+            <div class="filters-container">
+
+
+                <!-- Audience -->
+
+                <div class="filter-group">
+
+                    <label for="audienceFilter">
+                        Who is it for?
+                    </label>
+
+
+                    <select id="audienceFilter">
+
+                        <option value="all">
+                            All audiences
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Type -->
+
+                <div class="filter-group">
+
+                    <label for="typeFilter">
+                        Opportunity type
+                    </label>
+
+
+                    <select id="typeFilter">
+
+                        <option value="all">
+                            All types
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Access -->
+
+                <div class="filter-group">
+
+                    <label for="accessFilter">
+                        Application route
+                    </label>
+
+
+                    <select id="accessFilter">
+
+                        <option value="all">
+                            All routes
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Funding -->
+
+                <div class="filter-group">
+
+                    <label for="fundingFilter">
+                        Funding
+                    </label>
+
+
+                    <select id="fundingFilter">
+
+                        <option value="all">
+                            All funding
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Status -->
+
+                <div class="filter-group">
+
+                    <label for="statusFilter">
+                        Status
+                    </label>
+
+
+                    <select id="statusFilter">
+
+                        <option value="all">
+                            All statuses
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Verified -->
+
+                <label class="checkbox-filter">
+
+                    <input
+                        type="checkbox"
+                        id="verifiedFilter"
+                    >
+
+
+                    <span>
+                        Officially verified
+                    </span>
+
+                </label>
+
+
+
+                <!-- CLEAR FILTERS -->
+
+                <button
+                    type="button"
+                    id="clearFilters"
+                    class="clear-button"
+                >
+
+                    Clear filters
+
+                </button>
+
+
+            </div>
+
+
+
+            <!-- ACTIVE FILTER MESSAGE -->
+
+            <div
+                class="active-filter-message"
+                id="activeFilterMessage"
+            >
+            </div>
+
+
+
+            <!-- OPPORTUNITY CARDS -->
+
+            <div
+                class="opportunities-grid"
+                id="opportunitiesGrid"
+            >
+
+
+                <div class="loading-state">
+
+                    <div class="loading-spinner"></div>
+
+
+                    <p>
+                        Loading opportunities...
+                    </p>
+
+                </div>
+
+
+            </div>
+
+
+
+            <!-- NO RESULTS -->
+
+            <div
+                class="no-results"
+                id="noResults"
+                hidden
+            >
+
+
+                <div class="no-results-icon">
+                    0
+                </div>
+
+
+                <h3>
+                    No opportunities found
+                </h3>
+
+
+                <p>
+                    Try changing your filters or search terms.
+                </p>
+
+
+                <button
+                    type="button"
+                    id="resetSearch"
+                    class="primary-button"
+                >
+
+                    Reset search
+
+                </button>
+
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             ABOUT / METHODOLOGY
+        ========================== -->
+
+        <section
+            class="about-section"
+            id="about"
+        >
+
+
+            <div class="about-content">
+
+
+                <div>
+
+                    <p class="eyebrow">
+                        ABOUT THE HUB
+                    </p>
+
+
+                    <h2>
+                        Built for life-science students and researchers.
+                    </h2>
+
+                </div>
+
+
+
+                <div class="about-text">
+
+
+                    <p>
+
+                        LifeSci Hub brings together life-science
+                        internships, research programs, fellowships,
+                        traineeships and related opportunities in one
+                        searchable database.
+
+                    </p>
+
+
+                    <p>
+
+                        Each opportunity includes a source link so users
+                        can visit the official institutional or program
+                        website and check the original requirements,
+                        deadlines and application information.
+
+                    </p>
+
+
+                </div>
+
+
+            </div>
+
+
+
+            <!-- METHODOLOGY -->
+
+            <div class="methodology-grid">
+
+
+                <div class="methodology-card">
+
+
+                    <div class="methodology-number">
+                        01
+                    </div>
+
+
+                    <h3>
+                        Discover
+                    </h3>
+
+
+                    <p>
+
+                        Find opportunities across universities,
+                        research institutes, laboratories and
+                        organizations worldwide.
+
+                    </p>
+
+
+                </div>
+
+
+
+                <div class="methodology-card">
+
+
+                    <div class="methodology-number">
+                        02
+                    </div>
+
+
+                    <h3>
+                        Verify
+                    </h3>
+
+
+                    <p>
+
+                        Listings are linked to official institutional
+                        or program sources whenever available.
+
+                    </p>
+
+
+                </div>
+
+
+
+                <div class="methodology-card">
+
+
+                    <div class="methodology-number">
+                        03
+                    </div>
+
+
+                    <h3>
+                        Compare
+                    </h3>
+
+
+                    <p>
+
+                        Compare audience, opportunity type, funding,
+                        application route and current status.
+
+                    </p>
+
+
+                </div>
+
+
+
+                <div class="methodology-card">
+
+
+                    <div class="methodology-number">
+                        04
+                    </div>
+
+
+                    <h3>
+                        Apply
+                    </h3>
+
+
+                    <p>
+
+                        Open the official source and check the latest
+                        eligibility and application requirements.
+
+                    </p>
+
+
+                </div>
+
+
+            </div>
+
+
+        </section>
+
+
+    </main>
+
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer class="footer">
+
+
+        <div class="footer-container">
+
+
+            <div class="footer-brand">
+
+
+                <div class="logo">
+
+                    <span class="logo-mark">
+                        LS
+                    </span>
+
+                    <span>
+                        LifeSci Hub
+                    </span>
+
+                </div>
+
+
+                <p>
+
+                    A discovery platform for life-science
+                    opportunities worldwide.
+
+                </p>
+
+
+            </div>
+
+
+
+            <div class="footer-links">
+
+
+                <a href="#opportunities">
+                    Opportunities
+                </a>
+
+
+                <a href="#destinations">
+                    Destinations
+                </a>
+
+
+                <a href="#about">
+                    Methodology
+                </a>
+
+
+            </div>
+
+
+
+            <div class="footer-note">
+
+
+                <p>
+
+                    Always confirm current details on the
+                    official program website before applying.
+
+                </p>
+
+
+            </div>
+
+
+        </div>
+
+
+
+        <div class="footer-bottom">
+
+
+            <p>
+                © 2026 LifeSci Hub
+            </p>
+
+
+            <p>
+                Built for the life-science community
+            </p>
+
+
+        </div>
+
+
+    </footer>
+
+
+
+    <!-- =========================
+         JAVASCRIPT
+    ========================== -->
+
+    <script src="script.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "india-srfp",
+    "name": "IASc-INSA-NASI Summer Research Fellowship Programme (SRFP)",
+    "institution": "Indian Academy of Sciences / INSA / NASI",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Fellowship",
+    "access": "Centralized application",
+    "funding": "Stipend",
+    "duration": "Summer research fellowship",
+    "deadline": "30 Nov 2026",
+    "eligibility": "Life-science and science students; exact discipline/year requirements depend on the annual call.",
+    "officialUrl": "https://webjapps.ias.ac.in/fellowship2027/index.html",
+    "status": "Open",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "india-fast",
+    "name": "Focus Area Science Technology Fellowship (FAST-SF)",
+    "institution": "Indian Academy of Sciences / INSA / NASI",
+    "country": "India",
+    "audience": [
+      "Faculty"
+    ],
+    "type": "Faculty Research Fellowship",
+    "access": "Centralized application",
+    "funding": "Stipend + travel",
+    "duration": "Summer research",
+    "deadline": "30 Nov 2026",
+    "eligibility": "College/university teachers; exact requirements are set by the annual call.",
+    "officialUrl": "https://webjapps.ias.ac.in/fellowship2027/index.html",
+    "status": "Open",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "jncasr-srfp",
+    "name": "JNCASR Summer Research Fellowship Programme",
+    "institution": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Fellowship",
+    "access": "Centralized application",
+    "funding": "Stipend",
+    "duration": "Summer research",
+    "deadline": "31 Jan 2027",
+    "eligibility": "Undergraduate/postgraduate science students; check the annual call for discipline and academic requirements.",
+    "officialUrl": "https://www.jncasr.ac.in/academic/fandeprogrammes/srfp",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iitb",
+    "name": "IIT Bombay Research Internship Awards",
+    "institution": "Indian Institute of Technology Bombay",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Project-specific",
+    "funding": "Stipend",
+    "duration": "4–6 months",
+    "deadline": "29 Sep 2026 (2026–27 cycle)",
+    "eligibility": "External students selected for specific research projects; project and academic requirements apply.",
+    "officialUrl": "https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/",
+    "status": "Closed",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iisc-ipc",
+    "name": "IISc IPC Fellowship for Summer Research",
+    "institution": "Indian Institute of Science — Inorganic and Physical Chemistry",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized departmental application",
+    "funding": "Stipend + travel",
+    "duration": "2 months",
+    "deadline": "31 Mar 2026 (2026 cycle)",
+    "eligibility": "Chemistry students in specified undergraduate/integrated/M.Sc. years; discipline-specific.",
+    "officialUrl": "https://ipc.iisc.ac.in/summer_fellowships.php",
+    "status": "Closed",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iitgn",
+    "name": "Summer Research Internship Program (SRIP)",
+    "institution": "Indian Institute of Technology Gandhinagar",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Program-dependent",
+    "duration": "Summer",
+    "deadline": "TBA for 2027",
+    "eligibility": "Undergraduate and master's students; research project/faculty availability applies.",
+    "officialUrl": "https://srip.iitgn.ac.in/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "tifr",
+    "name": "Visiting Students Research Programme (VSRP)",
+    "institution": "TIFR Hyderabad",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Programme",
+    "access": "Centralized application",
+    "funding": "Stipend + accommodation",
+    "duration": "Summer",
+    "deadline": "TBA for next cycle",
+    "eligibility": "Final-year 3-year B.Sc. and specified pre-final/final-year science and engineering students; check annual call.",
+    "officialUrl": "https://www.tifrh.res.in/academics/vsrp/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ncbs",
+    "name": "NCBS Student Fellowship / Internship Opportunities",
+    "institution": "National Centre for Biological Sciences",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Institution / programme dependent",
+    "funding": "Program-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Programme-specific; winter internship call is announced early December",
+    "eligibility": "Eligibility and funding depend on the specific NCBS route or project.",
+    "officialUrl": "https://www.ncbs.res.in/facilities/science-education-office-fellowships",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "nii",
+    "name": "Short-Term Training (6 months)",
+    "institution": "National Institute of Immunology",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Training",
+    "access": "Centralized application",
+    "funding": "Unfunded / accommodation subject to availability",
+    "duration": "6 months",
+    "deadline": "6 Nov 2026",
+    "eligibility": "4th-semester Master's or 8th-semester four-year B.Tech/B.E./B.Sc. during Jan–Jun 2027; 60% minimum; compulsory degree component.",
+    "officialUrl": "https://nii.res.in/en/short-term-training",
+    "status": "Open",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ngsf",
+    "name": "NGSF Internship Program",
+    "institution": "Next Gen Scientists Foundation",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Host-PI / institute matching",
+    "funding": "Financial support may be available; NGSF does not itself provide the internship host",
+    "duration": "2–3 months",
+    "deadline": "TBA for next cycle",
+    "eligibility": "Life-science undergraduates/postgraduates; host PI/institute and NGSF conditions apply.",
+    "officialUrl": "https://ngsf.in/ngs-internship-program/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "csir-djia",
+    "name": "CSIR Diamond Jubilee Research Interns Awards",
+    "institution": "Council of Scientific & Industrial Research",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Central / vacancy-specific",
+    "funding": "Stipend",
+    "duration": "Project-dependent",
+    "deadline": "No current annual 2027 call verified",
+    "eligibility": "Indian nationals; exact degree and division requirements are specified in each advertisement.",
+    "officialUrl": "https://www.csir.res.in/en/applications-awards-fellowships/csir-diamond-jubilee-research-interns-awards",
+    "status": "Date TBA",
+    "verified": false,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "bitp",
+    "name": "Biotech Industrial Training Programme (BITP)",
+    "institution": "DBT / BCIL",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Industry Training",
+    "access": "Centralized application",
+    "funding": "Stipend",
+    "duration": "6 months",
+    "deadline": "Check current official call",
+    "eligibility": "Biotechnology/life-science graduates or final-year candidates as specified by the annual call.",
+    "officialUrl": "https://dbtindia.gov.in/",
+    "status": "Date TBA",
+    "verified": false,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "tare",
+    "name": "Teachers Associateship for Research Excellence (TARE)",
+    "institution": "ANRF",
+    "country": "India",
+    "audience": [
+      "Faculty"
+    ],
+    "type": "Faculty Research Fellowship",
+    "access": "Centralized application",
+    "funding": "Research grant / fellowship",
+    "duration": "Up to 3 months/year at host institute",
+    "deadline": "Check current call",
+    "eligibility": "Indian citizen with PhD/MS/MD holding a regular academic/research position in eligible institutions.",
+    "officialUrl": "https://anrfonline.in/ANRF/Tare",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "dbt-ra",
+    "name": "DBT Research Associateship (DBT-RA)",
+    "institution": "Regional Centre for Biotechnology / DBT",
+    "country": "India",
+    "audience": [
+      "Postdoc",
+      "Researcher"
+    ],
+    "type": "Postdoctoral Fellowship",
+    "access": "Centralized application",
+    "funding": "Fellowship",
+    "duration": "Postdoctoral research",
+    "deadline": "Call-specific",
+    "eligibility": "Indian nationals working overseas or who returned within the permitted period; PhD/MD or equivalent plus the required overseas postdoctoral research experience and other current-call conditions.",
+    "officialUrl": "https://rcb.res.in/DBTRA/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cimap",
+    "name": "Graduate Trainee / Training Programme",
+    "institution": "CSIR-CIMAP",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Training",
+    "access": "Institute application",
+    "funding": "Fee required",
+    "duration": "Up to 6 months",
+    "deadline": "Institute-dependent",
+    "eligibility": "Training/dissertation applicants subject to institute guidelines.",
+    "officialUrl": "https://www.cimap.res.in/pages/GradTrainee.aspx",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ihbt",
+    "name": "Training / Internship Programme",
+    "institution": "CSIR-IHBT",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Training",
+    "access": "Institute application",
+    "funding": "Fee required",
+    "duration": "Up to 3 months in cited fee schedule",
+    "deadline": "Institute-dependent",
+    "eligibility": "Subject to current CSIR-IHBT training guidelines.",
+    "officialUrl": "https://www.ihbt.res.in/images//template/home_page/GuidelinesTrainingInternshipNew.pdf",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cdri",
+    "name": "Training Programme",
+    "institution": "CSIR-CDRI",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Training",
+    "access": "Institute application",
+    "funding": "Fee required",
+    "duration": "Project/training dependent",
+    "deadline": "Institute-dependent",
+    "eligibility": "Trainees subject to current CDRI training rules and available projects.",
+    "officialUrl": "https://www.cdri.res.in/SkillDevelopment_InternshipPortal",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "csmcri",
+    "name": "Training Programme",
+    "institution": "CSIR-CSMCRI",
+    "country": "India",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Training",
+    "access": "Institute application",
+    "funding": "Fee required",
+    "duration": "Project/training dependent",
+    "deadline": "Institute-dependent",
+    "eligibility": "Subject to current CSMCRI training rules.",
+    "officialUrl": "https://www.csmcri.res.in/",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "nig",
+    "name": "NIG Summer Internship (NIG-INTERN)",
+    "institution": "National Institute of Genetics",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Partially funded",
+    "duration": "8 Jun–17 Jul 2026 (2026 cycle)",
+    "deadline": "5 Jan 2026 (2026 cycle)",
+    "eligibility": "Prefinal-year students; for a 4-year bachelor's, 3rd year; life sciences; international applicants accepted.",
+    "officialUrl": "https://www.nig.ac.jp/en/students/nig-intern/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "oist",
+    "name": "OIST Research Internship",
+    "institution": "Okinawa Institute of Science and Technology",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Centralized application",
+    "funding": "Funded",
+    "duration": "4–6 months",
+    "deadline": "15 Oct 2026 (Spring 2027)",
+    "eligibility": "Students in the last two years of a bachelor's or master's students; relevant research unit.",
+    "officialUrl": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+    "status": "Closed",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "riken-cbs",
+    "name": "RIKEN CBS Summer Program",
+    "institution": "RIKEN Center for Brain Science",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Competitive support",
+    "duration": "Plan A: 8 Jun–5 Aug 2027",
+    "deadline": "8 Jan 2027, 09:00 JST",
+    "eligibility": "Students enrolled in an academic institution/company; international applicants accepted.",
+    "officialUrl": "https://cbs.riken.jp/en/summer/apply.html",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "nims",
+    "name": "NIMS Internship Program",
+    "institution": "National Institute for Materials Science",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Centralized / project-dependent",
+    "funding": "Allowance + accommodation support",
+    "duration": "Project-dependent",
+    "deadline": "TBA; 2027 round opens Dec 2026",
+    "eligibility": "Current undergraduate or graduate students in relevant materials-science areas.",
+    "officialUrl": "https://www.nims.go.jp/eng/hr-development/internship.html",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "osaka-isp",
+    "name": "International Summer Program (ISP)",
+    "institution": "Osaka University",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Program-dependent",
+    "duration": "Summer",
+    "deadline": "TBA for 2027",
+    "eligibility": "Bachelor's/master's students outside Japan; natural sciences including biological sciences; must remain enrolled.",
+    "officialUrl": "https://www.sci.osaka-u.ac.jp/en/international-summer-program-isp/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "kyoto-amgen",
+    "name": "Kyoto University Amgen Scholars Program",
+    "institution": "Kyoto University",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Supported",
+    "duration": "Approx. 8 weeks",
+    "deadline": "TBA for 2027",
+    "eligibility": "Undergraduate at an Asian university; at least first year completed; biology/biotechnology and related areas.",
+    "officialUrl": "https://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ku-star",
+    "name": "KU-STAR India",
+    "institution": "Kyoto University",
+    "country": "Japan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Programme",
+    "access": "Centralized application",
+    "funding": "Accommodation",
+    "duration": "Project-dependent",
+    "deadline": "TBA for 2027",
+    "eligibility": "Bachelor's/master's students enrolled at Indian universities; bachelor's applicants must meet the semester requirement.",
+    "officialUrl": "https://www.kugd.k.kyoto-u.ac.jp/en/ku-star-program/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "tiip",
+    "name": "Taiwan International Internship Program (TIIP)",
+    "institution": "Academia Sinica",
+    "country": "Taiwan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Centralized application",
+    "funding": "Program-dependent",
+    "duration": "Summer / project-dependent",
+    "deadline": "TBA for 2027; 2027 host-mentor information is published",
+    "eligibility": "International students; host mentor/project requirements apply.",
+    "officialUrl": "https://tiip.dia.sinica.edu.tw/pages/4048",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iipp",
+    "name": "NSTC International Internship Pilot Program (IIPP)",
+    "institution": "Taiwan NSTC",
+    "country": "Taiwan",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Project-dependent",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "No 2027 deadline announced",
+    "eligibility": "International students; host project/institution conditions apply.",
+    "officialUrl": "https://iipp.stpi.niar.org.tw/program",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "teep",
+    "name": "Taiwan Experience Education Program (TEEP)",
+    "institution": "Study in Taiwan / TEEP",
+    "country": "Taiwan",
+    "audience": [
+      "Undergraduate",
+      "Master's",
+      "PhD"
+    ],
+    "type": "Research / Internship",
+    "access": "Project-dependent",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Project-specific",
+    "eligibility": "Depends on individual TEEP project.",
+    "officialUrl": "https://teep.studyintaiwan.org/",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "nus-amgen",
+    "name": "NUS Amgen Scholars Asia Program",
+    "institution": "National University of Singapore",
+    "country": "Singapore",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Fully funded",
+    "duration": "30 May–30 Jul 2027",
+    "deadline": "1 Feb 2027, 18:00 Singapore Time",
+    "eligibility": "Undergraduates at Asian universities; at least first year completed; relevant life-science fields.",
+    "officialUrl": "https://www.dbs.nus.edu.sg/outreach/amgen-scholars-program/",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "astar",
+    "name": "A*STAR Research Attachments / SIPGA",
+    "institution": "A*STAR",
+    "country": "Singapore",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Attachment",
+    "access": "Institute / mentor dependent",
+    "funding": "Program-dependent",
+    "duration": "2–6 months depending route",
+    "deadline": "No single 2027 deadline verified from a specific current student-attachment page",
+    "eligibility": "International students; SIPGA has stricter year/academic requirements.",
+    "officialUrl": "https://www.a-star.edu.sg/",
+    "status": "Date TBA",
+    "verified": false,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "kist",
+    "name": "KIST School Student Internship Program",
+    "institution": "Korea Institute of Science and Technology",
+    "country": "South Korea",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Program / partner dependent",
+    "funding": "Stipend",
+    "duration": "Project-dependent",
+    "deadline": "2027 TBA",
+    "eligibility": "Current university students meeting KIST School/partner requirements; remaining-semester restrictions apply.",
+    "officialUrl": "https://eng.kist.re.kr/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "gist",
+    "name": "GIST Global Internship Program",
+    "institution": "Gwangju Institute of Science and Technology",
+    "country": "South Korea",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Partial funding + stipend",
+    "duration": "Approx. 8 weeks",
+    "deadline": "2027 TBA",
+    "eligibility": "International senior undergraduates/master's students under the annual call.",
+    "officialUrl": "https://www.gist.ac.kr/en/html/sub05/0506.html",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "kaist",
+    "name": "KAI-X Summer Research Internship Program",
+    "institution": "KAIST",
+    "country": "South Korea",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend + travel/housing support",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "Overseas undergraduate juniors/seniors or master’s students; doctoral students are not eligible; 2026 fields included biology, brain & cognitive science and medical science.",
+    "officialUrl": "https://kai-x.kaist.ac.kr/experience-internship",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "tsinghua",
+    "name": "Tsinghua University Global Research Program (GRP)",
+    "institution": "Tsinghua University",
+    "country": "China",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Program",
+    "access": "Centralized / project-dependent",
+    "funding": "Program-dependent",
+    "duration": "Project-dependent",
+    "deadline": "2027 TBA",
+    "eligibility": "International students subject to annual program/project requirements.",
+    "officialUrl": "https://www.tsinghua.edu.cn/en/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "westlake",
+    "name": "Westlake University Summer Research Internship",
+    "institution": "Westlake University",
+    "country": "China",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Program-dependent",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "International applicants subject to annual call.",
+    "officialUrl": "https://en.westlake.edu.cn/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cas",
+    "name": "CAS International Visiting / Research Opportunities",
+    "institution": "Chinese Academy of Sciences",
+    "country": "China",
+    "audience": [
+      "Undergraduate",
+      "Master's",
+      "PhD"
+    ],
+    "type": "Research Visit / Fellowship",
+    "access": "Institute / programme dependent",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Programme-specific",
+    "eligibility": "Varies by CAS institute and call.",
+    "officialUrl": "https://english.cas.cn/work-with-cas/",
+    "status": "Programme-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "kaust",
+    "name": "Visiting Student Research Program (VSRP)",
+    "institution": "King Abdullah University of Science and Technology",
+    "country": "Saudi Arabia",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Project application",
+    "funding": "Fully funded",
+    "duration": "2–6 months",
+    "deadline": "Year-round / project-specific",
+    "eligibility": "International 3rd-year+ bachelor's and master's students in STEM; project and GPA requirements apply.",
+    "officialUrl": "https://admissions.kaust.edu.sa/study/internships",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "psu",
+    "name": "International Internship Scholarship (Inbound)",
+    "institution": "Prince of Songkla University",
+    "country": "Thailand",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Faculty / project dependent",
+    "funding": "Partial scholarship",
+    "duration": "Project-dependent",
+    "deadline": "Faculty / project-specific",
+    "eligibility": "International students enrolled at overseas universities; GPA and host-faculty requirements apply.",
+    "officialUrl": "https://www.psu.ac.th/en/",
+    "status": "Project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "um",
+    "name": "Inbound Mobility Attachment Program",
+    "institution": "Universiti Malaya",
+    "country": "Malaysia",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research / Internship Attachment",
+    "access": "Supervisor / faculty dependent",
+    "funding": "Self-funded",
+    "duration": "Up to 12 months",
+    "deadline": "Rolling; apply at least 2 months before start",
+    "eligibility": "External university students subject to faculty requirements.",
+    "officialUrl": "https://studyabroad.um.edu.my/inbound-attachment",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iimcb",
+    "name": "IIMCB Internship Program for Students",
+    "institution": "International Institute of Molecular and Cell Biology in Warsaw",
+    "country": "Poland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Institute / lab dependent",
+    "funding": "Paid",
+    "duration": "2 months",
+    "deadline": "Rolling",
+    "eligibility": "Bachelor's/master's students and recent graduates; life sciences/biotechnology welcome.",
+    "officialUrl": "https://www.iimcb.gov.pl/en/career-education/internships",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ceitec",
+    "name": "CEITEC Research Internships",
+    "institution": "CEITEC",
+    "country": "Czech Republic",
+    "audience": [
+      "Undergraduate",
+      "Master's",
+      "PhD"
+    ],
+    "type": "Research Internship",
+    "access": "Supervisor / research group / core facility",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Project-specific",
+    "eligibility": "Bachelor, master, MD or equivalent students; natural sciences including biology, biotechnology, molecular medicine, chemistry, pharmacy, computer science and engineering.",
+    "officialUrl": "https://www.ceitec.eu/internships/t11183",
+    "status": "Rolling / project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "img",
+    "name": "IMG Prague Research Internships",
+    "institution": "Institute of Molecular Genetics of the Czech Academy of Sciences",
+    "country": "Czech Republic",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Direct PI / research group",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Project-specific",
+    "eligibility": "Molecular/structural biology, immunology, functional genomics, bioinformatics and related areas.",
+    "officialUrl": "https://www.img.cas.cz/career/internships-and-theses/",
+    "status": "Project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "vib",
+    "name": "VIB Research / Internship Opportunities",
+    "institution": "VIB / Ghent University",
+    "country": "Belgium",
+    "audience": [
+      "Undergraduate",
+      "Master's",
+      "PhD"
+    ],
+    "type": "Research Internship",
+    "access": "Research group / programme dependent",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Project-specific",
+    "eligibility": "Opportunities depend on individual VIB research groups, centers and programmes; students should search current groups and contact the relevant supervisor.",
+    "officialUrl": "https://www.vib.be/",
+    "status": "Project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "asci",
+    "name": "Aalto University Science Institute International Summer Research Programme",
+    "institution": "Aalto University",
+    "country": "Finland",
+    "audience": [
+      "Undergraduate",
+      "Master's",
+      "PhD"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized / project selection",
+    "funding": "Paid",
+    "duration": "12 weeks, June–August",
+    "deadline": "31 Jan 2027, 23:59 UTC+2",
+    "eligibility": "Bachelor's/master's and exceptional doctoral applicants worldwide; project-dependent.",
+    "officialUrl": "https://www.aalto.fi/en/aalto-university-science-institute-asci/aalto-university-science-institute-international-summer-research-programme",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "vienna",
+    "name": "Vienna BioCenter Summer School",
+    "institution": "Vienna BioCenter",
+    "country": "Austria",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend + accommodation",
+    "duration": "9 weeks",
+    "deadline": "2027 call opens in the annual cycle; exact deadline should be checked on the current call",
+    "eligibility": "Life-science students with at least 2 years of university by program start, subject to annual call.",
+    "officialUrl": "https://training.vbc.ac.at/summer-school/",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "eth",
+    "name": "ETH Zurich Summer Projects",
+    "institution": "ETH Zurich",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research Programmes",
+    "access": "Programme directory",
+    "funding": "Programme-dependent",
+    "duration": "Usually July–August",
+    "deadline": "Programme-specific; 2027 dates vary by fellowship",
+    "eligibility": "Students with a strong academic record; eligibility varies by individual ETH summer fellowship.",
+    "officialUrl": "https://ethz.ch/en/studies/non-degree-courses/summer-offers/summer-projects.html",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "unil",
+    "name": "UNIL Summer Research Program",
+    "institution": "University of Lausanne",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend + accommodation/travel support",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "Undergraduates after two years in relevant biology/medicine areas; annual call applies.",
+    "officialUrl": "https://www.unil.ch/fbm/en/home/menuinst/enseignement/programmes-dete.html",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "epfl-e3",
+    "name": "EPFL Excellence in Engineering (E3)",
+    "institution": "EPFL",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend",
+    "duration": "Summer",
+    "deadline": "1 Nov 2026, 23:59 CET",
+    "eligibility": "International BSc/MSc students in engineering, science or technology; at least 2 years of Bachelor-level study completed; selection is highly competitive.",
+    "officialUrl": "https://eee.epfl.ch/",
+    "status": "Upcoming",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "epfl-erip",
+    "name": "EPFL Excellence Research Internship Program (ERIP)",
+    "institution": "EPFL",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Partner-university nomination / application",
+    "funding": "Stipend",
+    "duration": "3 months",
+    "deadline": "2027 TBA",
+    "eligibility": "High-achieving students who have completed at least 2 years of study and are enrolled at an eligible partner university; nomination rules vary by partner.",
+    "officialUrl": "https://www.epfl.ch/education/international/en/coming-to-epfl/research-internships/eligibility-and-application/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cern",
+    "name": "CERN Summer Student Programme",
+    "institution": "CERN",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend + programme support",
+    "duration": "8–13 weeks",
+    "deadline": "End of January 2027; check CERN Careers for the exact deadline",
+    "eligibility": "Bachelor's or master's students in physics, computing, engineering or mathematics; all nationalities welcome, with country-specific application routes for Canada, Japan and the USA.",
+    "officialUrl": "https://home.cern/summer-student-programme/",
+    "status": "Open",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "crg",
+    "name": "CRG Undergraduate & Masters Research Opportunities",
+    "institution": "Centre for Genomic Regulation",
+    "country": "Spain",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Direct group leader / project dependent",
+    "funding": "€700/month gross + travel support (for 2026/27 fellowships)",
+    "duration": "Project-dependent; fellowships up to 4 months",
+    "deadline": "Rolling for internships with a university learning agreement; 2026/27 fellowships remain project-specific",
+    "eligibility": "Undergraduate or MSc student at a university; all nationalities; acceptance depends on group capacity and ongoing projects.",
+    "officialUrl": "https://www.crg.eu/en/content/training/undergraduates-and-masters",
+    "status": "Rolling",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cnio",
+    "name": "CNIO Summer Training Programme",
+    "institution": "Spanish National Cancer Research Centre",
+    "country": "Spain",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Support package",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "Final-year undergraduate students in biomedicine, life sciences or related fields; annual call requirements apply.",
+    "officialUrl": "https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "iciq",
+    "name": "ICIQ Summer Fellowship Programme",
+    "institution": "Institute of Chemical Research of Catalonia",
+    "country": "Spain",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized application",
+    "funding": "Stipend",
+    "duration": "Up to 3 months",
+    "deadline": "2027 TBA",
+    "eligibility": "Third/final-year undergraduate and related students subject to call.",
+    "officialUrl": "https://careers.iciq.org/departments/summer-fellowship-programme",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "ie3-spain",
+    "name": "Medicine, Research and Biotechnology Internships in Spain",
+    "institution": "IE3 Global",
+    "country": "Spain",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "International Internship Placement",
+    "access": "Placement / host dependent",
+    "funding": "Host-dependent",
+    "duration": "Host-dependent",
+    "deadline": "Placement-specific",
+    "eligibility": "Depends on the host institution and placement.",
+    "officialUrl": "https://ie3global.org/internship/medicine-research-and-biotechnology-internships-in-spain/",
+    "status": "Project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "dkfz",
+    "name": "DKFZ Research Internships",
+    "institution": "German Cancer Research Center",
+    "country": "Germany",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Research Internship",
+    "access": "Project / supervisor dependent",
+    "funding": "Project-dependent",
+    "duration": "Project-dependent",
+    "deadline": "Project-specific",
+    "eligibility": "International applicants may be accepted depending on project and study stage.",
+    "officialUrl": "https://www.dkfz.de/en/career/vocational-training-studies-and-internships/internships/internships-before-and-during-your-studies",
+    "status": "Project-specific",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "mattertolife",
+    "name": "Matter to Life Undergraduate Research Opportunities (URO)",
+    "institution": "Matter to Life",
+    "country": "Germany",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Research Internship",
+    "access": "Centralized / project dependent",
+    "funding": "Funded",
+    "duration": "Summer / project-dependent",
+    "deadline": "1 Oct 2026 (2027 cycle)",
+    "eligibility": "International undergraduate students; current 2027 URO call requires a minimum academic record and project-specific fit; selected students receive funded support.",
+    "officialUrl": "https://mattertolife.maxplanckschools.org/uro-research-internship",
+    "status": "Closed",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "sabanci-pure",
+    "name": "PURE — Program for Undergraduate Research",
+    "institution": "Sabancı University",
+    "country": "Türkiye",
+    "audience": [
+      "Undergraduate"
+    ],
+    "type": "Research Internship",
+    "access": "Centralized / project dependent",
+    "funding": "Program-dependent",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "Undergraduate applicants subject to annual call and project requirements.",
+    "officialUrl": "https://pure.sabanciuniv.edu/",
+    "status": "Date TBA",
+    "verified": false,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "koc-kusrp",
+    "name": "Koç University Summer Research Program (KUSRP)",
+    "institution": "Koç University",
+    "country": "Türkiye",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research",
+    "access": "Centralized / project dependent",
+    "funding": "Tuition waiver / project-dependent",
+    "duration": "Summer",
+    "deadline": "2027 TBA",
+    "eligibility": "International undergraduate and other eligible students subject to the annual KUSRP call and individual research-project requirements.",
+    "officialUrl": "https://research.ku.edu.tr/research-outreach/summer-research/kusrp/",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "cern-short-term",
+    "name": "CERN Short-Term Internship",
+    "institution": "CERN",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Short-Term Internship",
+    "access": "Centralized job application",
+    "funding": "CHF 1,593/month net",
+    "duration": "1–6 months",
+    "deadline": "1 Nov 2026, 23:59 Geneva time (STAG 2026)",
+    "eligibility": "Currently enrolled in a post-secondary technical, engineering or administrative degree; must remain enrolled full-time; CERN Member/Associate Member State nationality rules apply.",
+    "officialUrl": "https://careers.cern/jobs/short-term-internship/",
+    "status": "Open",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "eth-ssrf",
+    "name": "ETH Student Summer Research Fellowship (SSRF)",
+    "institution": "ETH Zurich – Department of Computer Science",
+    "country": "Switzerland",
+    "audience": [
+      "Undergraduate",
+      "Master's"
+    ],
+    "type": "Summer Research Fellowship",
+    "access": "Centralized application",
+    "funding": "Fellowship / funded programme",
+    "duration": "2 summer months",
+    "deadline": "TBA for 2027",
+    "eligibility": "Undergraduate and graduate students worldwide except students enrolled at ETH Zurich; research areas include bio/medical informatics, machine learning, security, systems, robotics and others.",
+    "officialUrl": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+    "status": "Date TBA",
+    "verified": true,
+    "lastVerified": "2026-10-05"
+  }
+]
